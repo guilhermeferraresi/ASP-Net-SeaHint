@@ -1,0 +1,59 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #A9EAEF;
+}
+
+#titulo {
+    text-align: center;
+    margin-top: 0.5%;
+    font-family: 'Mali';
+    font-size: 70px;
+}
+
+.formulario {
+    background-color: #D8D7D0;
+    width: 46%;
+    height: 390px;
+    margin-left: 27%;
+    margin-top: 1.5%;
+    border-radius: 20px;
+}
+
+.txtbox {
+    border-radius: 20px;
+    border: none;
+    height: 45px;
+    width: 80%;
+    margin-left: calc(20% / 2);
+    margin-top: 6%;
+    padding-left: 15px;
+}
+
+#txtsenha {
+    margin-top: 3%;
+}
+
+.btnentrar {
+    width: 75%;
+    height: 50px;
+    background-color: yellow;
+    font-size: 27px;
+    border-radius: 25px;
+    margin-left: calc(25% / 2);
+    margin-top: 30%;
+    border: none;
+}
+
+    .btnentrar:hover {
+        background-color: darkgoldenrod;
+        color: #fff;
+    }
+
+#footerlogin {
+    text-align: center;
+    font-size: 18px;
+}

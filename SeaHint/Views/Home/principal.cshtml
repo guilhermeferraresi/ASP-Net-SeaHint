@@ -1,0 +1,78 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrossel de Cards</title>
+    <link rel="stylesheet" href="~/css/principal.css">
+</head>
+<body>
+    <h1 id="principalTitulo">Ranking SeaHint</h1>
+    <p id="seahint">Confira a seguir as melhores praias eleitas pelo SeaHint</p>
+    <h4 class="categoria">Melhores praias de surfe</h4>
+    <div class="carousel-wrapper">
+        <div class="carousel-container">
+            <div class="carousel" id="carousel-1">
+                <div class="carousel-item"><img src="~/img/image 9.png" alt="Card 1"></div>
+                <div class="carousel-item"><img src="~/img/image 10.png" alt="Card 2"></div>
+                <div class="carousel-item"><img src="~/img/image 11.png" alt="Card 3"></div>
+                <div class="carousel-item"><img src="~/img/image 12.png" alt="Card 4"></div>
+                <div class="carousel-item"><img src="~/img/image 13.png" alt="Card 5"></div>
+                <div class="carousel-item"><img src="~/img/image 14.png" alt="Card 6"></div>
+                <div class="carousel-item"><img src="~/img/image 15.png" alt="Card 7"></div>
+                <div class="carousel-item"><img src="~/img/image 16.png" alt="Card 8"></div>
+                <div class="carousel-item"><img src="~/img/image 17.png" alt="Card 9"></div>
+                <div class="carousel-item"><img src="~/img/image 18.png" alt="Card 10"></div>
+            </div>
+            <button class="carousel-control prev" data-carousel="carousel-1" onclick="prevSlide('carousel-1')">&#9664;</button>
+            <button class="carousel-control next" data-carousel="carousel-1" onclick="nextSlide('carousel-1')">&#9654;</button>
+        </div>
+
+        <h4 class="categoria">Melhores praias de banho</h4>
+        <div class="carousel-container">
+            <div class="carousel" id="carousel-2">
+                <div class="carousel-item"><img src="~/img/image 19.png" alt="Card 1"></div>
+                <div class="carousel-item"><img src="~/img/image 20.png" alt="Card 2"></div>
+                <div class="carousel-item"><img src="~/img/image 21.png" alt="Card 3"></div>
+                <div class="carousel-item"><img src="~/img/image 22.png" alt="Card 4"></div>
+                <div class="carousel-item"><img src="~/img/image 23.png" alt="Card 5"></div>
+                <div class="carousel-item"><img src="~/img/image 24.png" alt="Card 6"></div>
+                <div class="carousel-item"><img src="~/img/image 25.png" alt="Card 7"></div>
+                <div class="carousel-item"><img src="~/img/image 26.png" alt="Card 8"></div>
+                <div class="carousel-item"><img src="~/img/image 27.png" alt="Card 9"></div>
+                <div class="carousel-item"><img src="~/img/image 28.png" alt="Card 10"></div>
+            </div>
+            <button class="carousel-control prev" data-carousel="carousel-2" onclick="prevSlide('carousel-2')">&#9664;</button>
+            <button class="carousel-control next" data-carousel="carousel-2" onclick="nextSlide('carousel-2')">&#9654;</button>
+        </div>
+
+        <h4 class="categoria">Melhores praias de caminhada</h4>
+        <div class="carousel-container">
+            <div class="carousel" id="carousel-3">
+                <div class="carousel-item"><img src="~/img/image 29.png" alt="Card 1"></div>
+                <div class="carousel-item"><img src="~/img/image 30.png" alt="Card 2"></div>
+                <div class="carousel-item"><img src="~/img/image 31.png" alt="Card 3"></div>
+                <div class="carousel-item"><img src="~/img/image 32.png" alt="Card 4"></div>
+                <div class="carousel-item"><img src="~/img/image 33.png" alt="Card 5"></div>
+                <div class="carousel-item"><img src="~/img/image 34.png" alt="Card 6"></div>
+                <div class="carousel-item"><img src="~/img/image 35.png" alt="Card 7"></div>
+                <div class="carousel-item"><img src="~/img/image 36.png" alt="Card 8"></div>
+                <div class="carousel-item"><img src="~/img/image 37.png" alt="Card 9"></div>
+                <div class="carousel-item"><img src="~/img/image 38.png" alt="Card 10"></div>
+            </div>
+            <button class="carousel-control prev" data-carousel="carousel-3" onclick="prevSlide('carousel-3')">&#9664;</button>
+            <button class="carousel-control next" data-carousel="carousel-3" onclick="nextSlide('carousel-3')">&#9654;</button>
+        </div>
+    </div>
+    <script src="~/js/site.js"></script>
+    <div id="footer">
+        <p id="pfooter">copyright@2024 - todos os direitos atualizados</p>
+    </div>
+</body>
+</html>

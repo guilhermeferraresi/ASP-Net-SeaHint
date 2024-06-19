@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\seahint\\seahint\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\seahint\\seahint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\seahint\\seahint\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\seahint\\seahint\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\seahint\\seahint\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|c:\\users\\55119\\onedrive\\atividades etec\\ds\\seahint\\seahint\\wwwroot\\css\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B8E6451-593E-4ED4-BD15-6883CAF23AF3}|SeaHint\\SeaHint.csproj|solutionrelative:seahint\\wwwroot\\css\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SeaHint\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SeaHint\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-19T20:14:38.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "principal.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\wwwroot\\css\\principal.css",
+              "RelativeDocumentMoniker": "SeaHint\\wwwroot\\css\\principal.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\wwwroot\\css\\principal.css",
+              "RelativeToolTip": "SeaHint\\wwwroot\\css\\principal.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T20:14:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "principal.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\Views\\Home\\principal.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Home\\principal.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\Views\\Home\\principal.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Home\\principal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:13:43.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SeaHint\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SeaHint\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:13:11.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "SeaHint\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "SeaHint\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T20:12:39.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SeaHint\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\55119\\OneDrive\\Atividades ETEC\\DS\\SeaHint\\SeaHint\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SeaHint\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T20:08:54.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
